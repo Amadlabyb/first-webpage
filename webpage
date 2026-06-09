@@ -1,0 +1,20 @@
+<h1><span class="egypt-name">EGYPT</span></h1>
+<p>Egypt is the most beautiful country to visit ... But it has one disadvantedg</p>
+<h2>What make country like Egypt had a disadvantedg</h2>
+<p>Egypt demand on tourism as a main income beside many other fields  so there is so many sectors Egypt did not spend on it well and this sectors are important sectors like education and health</p>
+<h3>How Egypt solve this problem</h3>
+<p>By so many things Egypt can do like increas the salary of the teachers and employ new young teachers to decreas employment second thing support hospitals by medecines and money so patients can find well treatment</p>
+<h4>END</h4>
+<p>In the end Egypt is very wonderfull country as a tourist country but .... it still developing country</p> 
+
+CSS:
+
+body{
+background-color:#FAEBD7;
+color:#000000;
+font-family:sans-serif;
+padding:20px;
+}
+.egypt-name{
+color: #B8860B;
+font-weight: bold;
